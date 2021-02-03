@@ -1,0 +1,10 @@
+main: me.RaceAgainstTime.SimplySurvivalPlayerWarps.Main
+name: SimplySurvival-PlayerWarps
+version: 1.0
+api-version: 1.15
+author: RaceAgainstTime
+
+commands:
+  Setpwarp:
+  Pwarp:
+  delpwarp:
